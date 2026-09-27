@@ -1,8 +1,33 @@
 # 🛒 dexAC — Système d'Inventaire & Point de Vente (POS)
 
+![Licence](https://img.shields.io/badge/licence-GPL%20v3-blue.svg)
+![PHP](https://img.shields.io/badge/PHP-5.6-8892BF.svg)
+![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-acpos-4479A1.svg)
+![Statut](https://img.shields.io/badge/interface-100%25%20français-success.svg)
+![Responsive](https://img.shields.io/badge/design-responsive-8A2BE2.svg)
+
 Application web complète de **caisse et gestion d'inventaire multi-boutiques**, entièrement **en français**, avec une interface modernisée en **glassmorphism** (thème sombre/clair automatique), des animations fluides et un design **100 % responsive** (desktop, tablette, mobile).
 
 > Refonte UI/UX 2026 du projet original *Web Based Inventory and POS in PHP* — logique métier PHP conservée, interface entièrement repensée.
+
+---
+
+## 📑 Sommaire
+
+- [📸 Aperçu des écrans](#-aperçu-des-écrans)
+- [✨ Fonctionnalités](#-fonctionnalités)
+  - [🔐 Authentification & comptes](#-authentification--comptes)
+  - [🧾 Point de vente (caisse)](#-point-de-vente-caisse)
+  - [📦 Inventaire multi-boutiques](#-inventaire-multi-boutiques)
+  - [🏬 Gestion du réseau](#-gestion-du-réseau)
+  - [📊 Données & échanges](#-données--échanges)
+  - [🎨 Interface (refonte 2026)](#-interface-refonte-2026)
+- [🧰 Stack technique](#-stack-technique)
+- [🚀 Installation](#-installation)
+- [📁 Structure du projet](#-structure-du-projet)
+- [🗃 Schéma de la base](#-schéma-de-la-base)
+- [🔒 Avertissement sécurité](#-avertissement-sécurité)
+- [📄 Licence](#-licence)
 
 ---
 
