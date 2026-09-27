@@ -6,9 +6,7 @@
 ![Statut](https://img.shields.io/badge/interface-100%25%20français-success.svg)
 ![Responsive](https://img.shields.io/badge/design-responsive-8A2BE2.svg)
 
-Application web complète de **caisse et gestion d'inventaire multi-boutiques**, entièrement **en français**, avec une interface modernisée en **glassmorphism** (thème sombre/clair automatique), des animations fluides et un design **100 % responsive** (desktop, tablette, mobile).
-
-> Refonte UI/UX 2026 du projet original *Web Based Inventory and POS in PHP* — logique métier PHP conservée, interface entièrement repensée.
+Application web complète de **caisse et gestion d'inventaire multi-boutiques**, entièrement **en français**, avec une interface moderne en **glassmorphism** (thème sombre/clair automatique), des animations fluides et un design **100 % responsive** (desktop, tablette, mobile).
 
 ---
 
@@ -21,7 +19,7 @@ Application web complète de **caisse et gestion d'inventaire multi-boutiques**,
   - [📦 Inventaire multi-boutiques](#-inventaire-multi-boutiques)
   - [🏬 Gestion du réseau](#-gestion-du-réseau)
   - [📊 Données & échanges](#-données--échanges)
-  - [🎨 Interface (refonte 2026)](#-interface-refonte-2026)
+  - [🎨 Interface](#-interface)
 - [🧰 Stack technique](#-stack-technique)
 - [🚀 Installation](#-installation)
 - [📁 Structure du projet](#-structure-du-projet)
@@ -106,7 +104,7 @@ La navigation s'empile au-dessus du contenu — tableaux convertis en cartes lis
 - **Export** de l'inventaire et des transactions
 - Historique des transactions par boutique avec totaux
 
-### 🎨 Interface (refonte 2026)
+### 🎨 Interface
 - **Glassmorphism** : cartes translucides, effet de flou d'arrière-plan, bordures lumineuses
 - **Thème sombre / clair** : détection automatique des préférences système + bouton de bascule (mémoire locale)
 - **Micro-interactions** : effet shine sur les boutons, spotlight suivant le curseur, soulèvement des cartes au survol
@@ -235,17 +233,14 @@ POS_webased/
 
 ## 🔒 Avertissement sécurité
 
-Ce projet est un **exercice pédagogique** issu d'un code open source de 2015. En l'état il présente des failles connues et **ne doit pas être déployé en production** :
+Ce projet est un **exercice pédagogique**. En l'état il présente des failles connues et **ne doit pas être déployé en production** :
 
 - mots de passe stockés en clair,
 - requêtes SQL construites par concaténation (risque d'injection),
 - pas de protection CSRF ni d'échappement XSS systématique.
 
-Une refonte moderne recommandée (Laravel + PostgreSQL, requêtes préparées, Argon2id, rôles) est décrite dans [`ARCHITECTURE.md`](../ARCHITECTURE.md).
-
 ---
 
 ## 📄 Licence
 
-Projet original sous **GNU GPL v3** — voir `GNU License v3.txt`.
-Refonte UI 2026 : même licence, créditée au projet original (code-projects.org / DEX Connect).
+Projet distribué sous **GNU GPL v3** — voir `GNU License v3.txt`.
