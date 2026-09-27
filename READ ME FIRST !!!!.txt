@@ -1,0 +1,24 @@
+Web Based Inventory and POS in PHP
+
+**Login Details**
+
+Email id: happachee@happachee.com
+Password: happachee
+
+
+**Thanks to DEX Connect Happachee**
+
+DON'T FORGET TO CREATE A DATABASE AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING

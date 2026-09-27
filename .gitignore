@@ -1,0 +1,11 @@
+# Fichiers système
+Thumbs.db
+.DS_Store
+*.rar
+
+# Exports générés
+POS_webased/inventory.txt
+POS_webased/transactions.txt
+
+# Environnement local
+*.bak
